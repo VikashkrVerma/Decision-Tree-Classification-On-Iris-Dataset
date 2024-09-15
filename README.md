@@ -1,4 +1,4 @@
-**Decision Tree Classification on Iris Dataset**
+#Decision Tree Classification on Iris Dataset
 This project demonstrates the use of a decision tree classifier to classify different species of the Iris flower dataset. The Iris dataset is a well-known dataset in the field of machine learning, often used for introductory tasks.
 
 **Project Structure**
