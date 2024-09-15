@@ -7,18 +7,18 @@ Decision_tree_classification_on_Iris_dataset.ipynb: The main Jupyter notebook th
 Dataset
 The Iris dataset consists of 150 samples from each of three species of Iris flowers: setosa, versicolor, and virginica. Each sample has four features:
 
--Sepal length
--Sepal width
--Petal length
--Petal width
+-**Sepal length**
+-**Sepal width**
+-**Petal length**
+-**Petal width**
 These features are used to classify the species of the Iris flower.
 
 ## Dependencies
 To run this notebook, the following dependencies are required:
 
--Python 3.x
--Jupyter Notebook
--Scikit-learn
--NumPy
--Matplotlib
--Pandas
+-**Python 3.x**
+-**Jupyter Notebook**
+-**Scikit-learn**
+-**NumPy**
+-**Matplotlib**
+-**Pandas**
